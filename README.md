@@ -6,6 +6,17 @@ This is our EE512 Machine Learning end semester project at Department of ELectri
 - Initial Dataset Exploration
 - Feature Extraction
 
+### 2nd: Train Muliple Models notebook
+- Extract More Features
+- Train Test Split
+- APPLY PCA
+#### Train Models On CPUS and GPUs (Nvidia Geforce GTX 970 and 1070):
+- Neural Network
+- Convolutional Neural Network
+- Isolation Forest (Anomaly Detection)
+- OneClass SVM (Anomaly Detection)
+- Autoencoders (Anomaly Detection)
+
 ## Supervisor:
 ### Dr. Ali Ahmed
 ## Group Members:
