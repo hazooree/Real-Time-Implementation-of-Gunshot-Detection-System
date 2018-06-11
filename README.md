@@ -19,7 +19,7 @@ This is our EE512 Machine Learning end semester project at Department of ELectri
 - Autoencoders (Anomaly Detection)
 
 ## Supervisor:
-### Dr. Ali Ahmed
+### [Dr. Ali Ahmed](https://itu.edu.pk/faculty-itu/dr-ali-ahmed/)
 ## Group Members:
 ### Fawad Arshad (MSDS17001@itu.edu.pk)
 ### Hazoor Ahmad (PHDEE17004@itu.edu.pk)
