@@ -9,8 +9,9 @@ This is our EE512 Machine Learning end semester project at Department of ELectri
 ### 2nd: Train Muliple Models notebook
 - Extract More Features
 - Train Test Split
-- APPLY PCA
-#### Train Models On CPUS and GPUs (Nvidia Geforce GTX 970 and 1070):
+- APPLY PC
+- Train Models
+#### Trained Models: [GPUs are used for Neural Networks (Nvidia Geforce GTX 970 and 1070)]:
 - Neural Network
 - Convolutional Neural Network
 - Isolation Forest (Anomaly Detection)
