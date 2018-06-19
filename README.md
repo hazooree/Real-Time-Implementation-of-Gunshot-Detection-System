@@ -1,4 +1,4 @@
-# Real-Time-Implementation-of-Gunshot-Detection-System
+# Real Time Implementation of Gunshot Detection System
 This is our EE512 Machine Learning semester project at Department of ELectrical Engineering at ITU.
 
 ### 1st: datasets merging, exploration and feature extraction notebook
