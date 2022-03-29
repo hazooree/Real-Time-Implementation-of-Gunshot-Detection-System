@@ -11,7 +11,7 @@ This is our EE512 Machine Learning semester project at Department of ELectrical 
 - Train Test Split
 - APPLY PCA
 - Train Models
-#### Trained Models: [GPUs are used for Neural Networks (Nvidia Geforce GTX 970 and 1070)]:
+#### Trained Models: [GPUs used for Training (Nvidia Geforce GTX 970 and 1070)]:
 - Neural Network
 - Convolutional Neural Network
 - Isolation Forest (Anomaly Detection)
